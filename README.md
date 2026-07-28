@@ -41,37 +41,12 @@ Gosto de resolver problemas por meio da tecnologia e estou sempre buscando apren
 
 ---
 
-## 📌 Projetos em destaque
-
-### 🛒 Ecommerce API
-API REST desenvolvida com ASP.NET Core utilizando arquitetura em camadas, Entity Framework Core e SQL Server, com operações completas de CRUD.
-
-### 🏨 Sistema de Hospedagem
-Projeto em C# com Programação Orientada a Objetos, aplicando conceitos como encapsulamento, listas, validações e regras de negócio.
-
-### 🚗 Sistema de Estacionamento
-Aplicação em C# para gerenciamento de veículos e cálculo de permanência, utilizando lógica de programação e orientação a objetos.
-
-> 📂 Confira todos os projetos nos meus repositórios.
-
----
-
 ## 📈 Objetivos
 
 - 💼 Conquistar minha primeira oportunidade como Desenvolvedor Back-end
 - 🚀 Evoluir continuamente em C# e .NET
 - 📚 Aprender novas tecnologias e boas práticas de desenvolvimento
 - 🤝 Colaborar em projetos que gerem impacto e aprendizado
-
----
-
-## 📊 Estatísticas do GitHub
-
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
-</div>
-
 ---
 
 ## 🎯 Fora da Tecnologia
