@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Luiz Felipe!
+#  Olá, eu sou o Luiz Felipe!👋
 
 🎓 Estudante do 1º semestre de Análise e Desenvolvimento de Sistemas na FATEC  
 💻 Apaixonado por tecnologia, desenvolvimento web e QA  
@@ -6,7 +6,7 @@
 
 ---
 
-## 🚀 Sobre Mim
+##  Sobre Mim
 
 Atualmente estou focado em:
 
