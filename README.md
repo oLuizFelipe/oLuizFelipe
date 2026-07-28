@@ -1,45 +1,76 @@
-#  Olá, eu sou o Luiz Felipe!👋
+# Olá, eu sou o Luiz Felipe! 👋
 
-🎓 Estudante do 1º semestre de Análise e Desenvolvimento de Sistemas na FATEC  
-💻 Apaixonado por tecnologia, desenvolvimento web e QA  
-🚀 Sempre buscando aprender novas tecnologias e evoluir como desenvolvedor
+🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC  
+💻 Desenvolvedor Back-end em formação, com foco em C# e .NET  
+🚀 Buscando minha primeira oportunidade na área de desenvolvimento de software
 
 ---
 
-##  Sobre Mim
+## 👨‍💻 Sobre mim
+
+Sou estudante de Análise e Desenvolvimento de Sistemas e apaixonado por tecnologia. Tenho me dedicado ao desenvolvimento back-end, criando projetos para colocar em prática os conhecimentos adquiridos e evoluir constantemente.
 
 Atualmente estou focado em:
 
-- 🌱 Aprendendo desenvolvimento web, Python e Quality Assurance (QA)
-- 👨‍💻 Desenvolvendo projetos para aprimorar minhas habilidades
-- 📚 Expandindo meus conhecimentos em programação e tecnologia
-- 🤝 Buscando experiência prática através de projetos e colaboração
+- 🌱 Desenvolvimento Back-end com C# e .NET
+- 🔗 Criação de APIs REST utilizando ASP.NET Core
+- 🗄️ Modelagem e manipulação de bancos de dados com SQL Server e Entity Framework Core
+- 🔄 Versionamento de código com Git e GitHub
+- 📚 Aprendizado contínuo através de projetos práticos
 
-Tenho interesse em criar soluções modernas, funcionais e que realmente façam diferença no dia a dia das pessoas.
+Gosto de resolver problemas por meio da tecnologia e estou sempre buscando aprender novas ferramentas, boas práticas e desenvolver soluções eficientes.
 
 ---
 
 ## 🛠️ Tecnologias & Ferramentas
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="Luiz-HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="Luiz-CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Luiz-JS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Luiz-Python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
-  <img align="center" alt="Luiz-Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="Luiz-Vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Luiz-CSharp" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
+<div align="center">
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="45" alt="C#" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="45" alt=".NET" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="45" alt="HTML" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="45" alt="CSS" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="45" alt="JavaScript" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="45" alt="GitHub" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="45" alt="VS Code" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="45" alt="Visual Studio" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="45" alt="SQL Server" />
+
 </div>
+
+---
+
+## 📌 Projetos em destaque
+
+### 🛒 Ecommerce API
+API REST desenvolvida com ASP.NET Core utilizando arquitetura em camadas, Entity Framework Core e SQL Server, com operações completas de CRUD.
+
+### 🏨 Sistema de Hospedagem
+Projeto em C# com Programação Orientada a Objetos, aplicando conceitos como encapsulamento, listas, validações e regras de negócio.
+
+### 🚗 Sistema de Estacionamento
+Aplicação em C# para gerenciamento de veículos e cálculo de permanência, utilizando lógica de programação e orientação a objetos.
+
+> 📂 Confira todos os projetos nos meus repositórios.
 
 ---
 
 ## 📈 Objetivos
 
-- Construir uma base sólida em desenvolvimento de software
-- Evoluir como desenvolvedor Full Stack
-- Aprimorar conhecimentos em QA e automação de testes
-- Conquistar experiência profissional na área de tecnologia
+- 💼 Conquistar minha primeira oportunidade como Desenvolvedor Back-end
+- 🚀 Evoluir continuamente em C# e .NET
+- 📚 Aprender novas tecnologias e boas práticas de desenvolvimento
+- 🤝 Colaborar em projetos que gerem impacto e aprendizado
 
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
@@ -47,11 +78,14 @@ Tenho interesse em criar soluções modernas, funcionais e que realmente façam 
 
 Quando não estou programando, gosto de:
 
-🏋️ Academia  
-📺 Assistir séries  
-📖 Ler e estudar novos assuntos  
+🏋️ Academia
+
+📺 Assistir séries
+
+📚 Estudar novas tecnologias
 
 ---
 
-✨ Obrigado por visitar meu perfil!  
-Sinta-se à vontade para explorar meus repositórios e acompanhar minha evolução na tecnologia 🚀
+⭐ Obrigado por visitar meu perfil!
+
+Fique à vontade para explorar meus repositórios. Estou sempre aprendendo, desenvolvendo novos projetos e buscando evoluir como desenvolvedor. 🚀
