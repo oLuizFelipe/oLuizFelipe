@@ -1,7 +1,6 @@
 # Olá, eu sou o Luiz Felipe! 👋
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas na FATEC  
-💻 Desenvolvedor Back-end em formação, com foco em C# e .NET  
 🚀 Buscando minha primeira oportunidade na área de desenvolvimento de software
 
 ---
